@@ -49,6 +49,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 40. [Inspect sparse working-tree configuration](docs/40-sparse-checkout.md)
 41. [Detect incomplete local history](docs/41-shallow-history.md)
 42. [Record branch and tag pointers for a later comparison](docs/42-reference-inventory.md)
+43. [Review scope before publishing a branch](docs/43-review-before-push.md)
 
 ## Boundaries
 
