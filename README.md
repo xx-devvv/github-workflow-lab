@@ -42,6 +42,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 33. [Locate a regression with a binary search](docs/33-bisect.md)
 34. [Understand and preserve detached-HEAD work](docs/34-detached-head.md)
 35. [Follow a document through a rename](docs/35-path-history.md)
+36. [List exactly what the repository tracks](docs/36-tracked-inventory.md)
 
 ## Boundaries
 
