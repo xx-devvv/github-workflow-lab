@@ -18,6 +18,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 10. [Undo a published change with a new commit](docs/10-reverts.md)
 11. [Copy a selected change to another branch](docs/11-cherry-picks.md)
 12. [Label a known revision with an annotated tag](docs/12-tags.md)
+13. [Recover a recent commit using the reflog](docs/13-recovery.md)
 
 ## Boundaries
 
