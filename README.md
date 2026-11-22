@@ -26,6 +26,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 17. [Rename a tracked document deliberately](docs/17-renames.md)
 18. [Inspect fetch and push destinations](docs/18-remotes.md)
 19. [Fetch remote state without merging it](docs/19-fetch.md)
+20. [Choose a predictable pull policy](docs/20-pull-policy.md)
 
 ## Boundaries
 
