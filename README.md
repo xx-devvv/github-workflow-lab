@@ -10,6 +10,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 2. [Create an isolated topic branch](docs/02-branches.md)
 3. [Stage only the intended files](docs/03-staging.md)
 4. [Compare working, staged, and committed changes](docs/04-diffs.md)
+5. [Create a focused, attributable commit](docs/05-commits.md)
 
 ## Boundaries
 
