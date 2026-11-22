@@ -45,6 +45,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 36. [List exactly what the repository tracks](docs/36-tracked-inventory.md)
 37. [Inspect the objects behind a commit](docs/37-object-types.md)
 38. [Inspect repository object storage](docs/38-repository-size.md)
+39. [Recognize submodule state](docs/39-submodules.md)
 
 ## Boundaries
 
