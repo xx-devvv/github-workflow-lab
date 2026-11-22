@@ -28,6 +28,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 19. [Fetch remote state without merging it](docs/19-fetch.md)
 20. [Choose a predictable pull policy](docs/20-pull-policy.md)
 21. [Inspect branch upstream configuration](docs/21-upstreams.md)
+22. [Count commits on each side of a branch comparison](docs/22-divergence.md)
 
 ## Boundaries
 
