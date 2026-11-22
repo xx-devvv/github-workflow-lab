@@ -7,6 +7,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 ## Practice notes
 
 1. [Inspect a repository before changing it](docs/01-inspect.md)
+2. [Create an isolated topic branch](docs/02-branches.md)
 
 ## Boundaries
 
