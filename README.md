@@ -35,6 +35,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 26. [Replay a private topic branch onto an updated base](docs/26-rebase.md)
 27. [Correct the latest unpublished commit](docs/27-amend.md)
 28. [Find the common ancestor of two branches](docs/28-merge-bases.md)
+29. [Export a reviewable working-tree patch](docs/29-patch-files.md)
 
 ## Boundaries
 
