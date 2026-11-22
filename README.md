@@ -13,6 +13,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 5. [Create a focused, attributable commit](docs/05-commits.md)
 6. [Read history and inspect an individual change](docs/06-history.md)
 7. [Temporarily save tracked work](docs/07-stashes.md)
+8. [Understand a fast-forward merge](docs/08-merges.md)
 
 ## Boundaries
 
