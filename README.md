@@ -21,6 +21,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 13. [Recover a recent commit using the reflog](docs/13-recovery.md)
 
 14. [Understand ignore rules and tracked files](docs/14-ignore-rules.md)
+15. [Inspect per-file Git attributes](docs/15-attributes.md)
 
 ## Boundaries
 
