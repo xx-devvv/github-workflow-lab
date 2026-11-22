@@ -17,6 +17,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 9. [Resolve a conflict deliberately](docs/09-conflicts.md)
 10. [Undo a published change with a new commit](docs/10-reverts.md)
 11. [Copy a selected change to another branch](docs/11-cherry-picks.md)
+12. [Label a known revision with an annotated tag](docs/12-tags.md)
 
 ## Boundaries
 
