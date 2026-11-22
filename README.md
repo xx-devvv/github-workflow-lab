@@ -33,6 +33,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 24. [Read a file from an earlier revision](docs/24-historical-files.md)
 25. [Restore one tracked scratch file](docs/25-selective-restore.md)
 26. [Replay a private topic branch onto an updated base](docs/26-rebase.md)
+27. [Correct the latest unpublished commit](docs/27-amend.md)
 
 ## Boundaries
 
