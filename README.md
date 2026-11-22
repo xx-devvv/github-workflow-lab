@@ -20,6 +20,8 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 12. [Label a known revision with an annotated tag](docs/12-tags.md)
 13. [Recover a recent commit using the reflog](docs/13-recovery.md)
 
+14. [Understand ignore rules and tracked files](docs/14-ignore-rules.md)
+
 ## Boundaries
 
 - Each pull request documents one distinct Git operation.
