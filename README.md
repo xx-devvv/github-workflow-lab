@@ -39,6 +39,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 30. [Create a second working directory for a different branch](docs/30-worktrees.md)
 31. [Create and verify a portable Git bundle](docs/31-bundles.md)
 32. [Export a tracked snapshot without Git history](docs/32-archives.md)
+33. [Locate a regression with a binary search](docs/33-bisect.md)
 
 ## Boundaries
 
