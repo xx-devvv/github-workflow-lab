@@ -41,6 +41,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 32. [Export a tracked snapshot without Git history](docs/32-archives.md)
 33. [Locate a regression with a binary search](docs/33-bisect.md)
 34. [Understand and preserve detached-HEAD work](docs/34-detached-head.md)
+35. [Follow a document through a rename](docs/35-path-history.md)
 
 ## Boundaries
 
