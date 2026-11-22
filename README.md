@@ -25,6 +25,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 16. [Diagnose line-ending differences](docs/16-line-endings.md)
 17. [Rename a tracked document deliberately](docs/17-renames.md)
 18. [Inspect fetch and push destinations](docs/18-remotes.md)
+19. [Fetch remote state without merging it](docs/19-fetch.md)
 
 ## Boundaries
 
