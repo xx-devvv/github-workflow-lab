@@ -31,6 +31,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 22. [Count commits on each side of a branch comparison](docs/22-divergence.md)
 23. [Search history by message or changed text](docs/23-log-search.md)
 24. [Read a file from an earlier revision](docs/24-historical-files.md)
+25. [Restore one tracked scratch file](docs/25-selective-restore.md)
 
 ## Boundaries
 
