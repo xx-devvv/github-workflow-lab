@@ -37,6 +37,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 28. [Find the common ancestor of two branches](docs/28-merge-bases.md)
 29. [Export a reviewable working-tree patch](docs/29-patch-files.md)
 30. [Create a second working directory for a different branch](docs/30-worktrees.md)
+31. [Create and verify a portable Git bundle](docs/31-bundles.md)
 
 ## Boundaries
 
