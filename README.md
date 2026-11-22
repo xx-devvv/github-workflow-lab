@@ -8,6 +8,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 
 1. [Inspect a repository before changing it](docs/01-inspect.md)
 2. [Create an isolated topic branch](docs/02-branches.md)
+3. [Stage only the intended files](docs/03-staging.md)
 
 ## Boundaries
 
