@@ -30,6 +30,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 21. [Inspect branch upstream configuration](docs/21-upstreams.md)
 22. [Count commits on each side of a branch comparison](docs/22-divergence.md)
 23. [Search history by message or changed text](docs/23-log-search.md)
+24. [Read a file from an earlier revision](docs/24-historical-files.md)
 
 ## Boundaries
 
