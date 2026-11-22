@@ -47,6 +47,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 38. [Inspect repository object storage](docs/38-repository-size.md)
 39. [Recognize submodule state](docs/39-submodules.md)
 40. [Inspect sparse working-tree configuration](docs/40-sparse-checkout.md)
+41. [Detect incomplete local history](docs/41-shallow-history.md)
 
 ## Boundaries
 
