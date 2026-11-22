@@ -15,6 +15,7 @@ All work in this lab stays here. No existing project needs to be edited, rewritt
 7. [Temporarily save tracked work](docs/07-stashes.md)
 8. [Understand a fast-forward merge](docs/08-merges.md)
 9. [Resolve a conflict deliberately](docs/09-conflicts.md)
+10. [Undo a published change with a new commit](docs/10-reverts.md)
 
 ## Boundaries
 
